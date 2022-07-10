@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+section{
+    display:flex;
+    margin-bottom: 100px;
+    margin-left: 50px;
+}
+
+.orange{
+    color: orange;
+}
+.width-half{
+    width: 50%;
+    size: 50%;
+}
+.button{
+    text-decoration: none;
+    background-color: yellow;
+    color: red;
+    border-radius: 15%;
+    padding: 10px;
+    margin: 20px;
+}
+.full-stack{
+    border: 10px solid red;
+}
+.frontend{
+    border-left: 7px solid blue;
+}
+.footer{
+    text-align: center;
+    margin-bottom: 30px;
+}
